@@ -20,11 +20,11 @@ N/A
 
 ## Usage
 
-The final version of this Module 1 Challenge follows accessibility standards below:
+The final version of this Module 1 Challenge follows accessibility standards, you may refer to the resources below:
 
 1. [Sematic HTML](https://www.w3schools.com/html/html5_semantic_elements.asp)
 
-2. [Image alt attributes] (https://www.w3schools.com/tags/att_img_alt.asp)
+2. [Image alt attributes](https://www.w3schools.com/tags/att_img_alt.asp)
 
 ## Credits
 
